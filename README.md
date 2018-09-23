@@ -1,5 +1,7 @@
 # checkbox-detection
 
+Combine text and rectangles to identify checkboxes
+
 Usage:
 
     python3 ./checkbox_detector.py <image file>
